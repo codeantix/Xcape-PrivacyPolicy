@@ -6,7 +6,7 @@
 ## 1. What does it store?
 
  - Channel ids ( for logging events )
- - server ids (for whitelist users)
+ - server ids (for premium guilds)
  - user ids (for whitelist users)
 
 ## 2. Who can access the data?
@@ -14,6 +14,7 @@
  #### 1. Following people can access ALL of the data:
  -  [`NotYourNemo#6969`](https://discord.com/users/981583519312666635)
  -  [`~ Hacker_xD#0001`](https://discord.com/users/246469891761111051)
+ -  [`clear.#5245`](https://discord.com/users/1080218508052402398)
 
 #### 2. Following people can access whitelisted users / server settings data:
 - Server Owner
@@ -37,4 +38,4 @@
 
 
 ## A warning will be announced in the support server 3 days prior to policy changes.
-#### **Last updated:**  `28 February, 2023`
+#### **Last updated:**  `05 March, 2023`
